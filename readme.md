@@ -2,7 +2,7 @@
 한국 법령 Json 파싱 코드
 
 ## 사용방법
-1. [법령정보센터](https://www.law.go.kr/%EB%B2%95%EB%A0%B9) 에서 원하는 법령을 열어서 텍스트로 저장합니다. ('조문목록 포함'을 체크하여야 함)
+1. [법령정보센터](https://www.law.go.kr) 에서 원하는 법령을 열어서 텍스트로 저장합니다. ('조문목록 포함'을 체크하여야 함)
 
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/43233543/221195617-9f78a6f0-3612-4819-aa7b-9c24ae95fce6.png">
 
